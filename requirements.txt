@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+# tqdm # Opzionale, per le barre di progresso
+# Se si usa Colab specificamente per il mount:
+# google-colab
